@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TDDCode", "TDDCode\TDDCode.csproj", "{FB8FC18D-E8F7-4B18-9921-1522A92E0E0B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTests", "UnitTests\UnitTests.csproj", "{8E1E7645-FF29-4697-BD07-A0ED19743127}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TickTacToe", "TickTacToe\TickTacToe.csproj", "{DA3CEF14-9FD8-4814-A5A9-2F5434627C67}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TddMocks", "TddMocks\TddMocks.csproj", "{688A1CB1-1412-41F6-B9D7-B5E0D9C38961}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TddMocksTest", "TddMocksTest\TddMocksTest.csproj", "{310C8A50-3F67-4DD7-95B2-EECD24882FC1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AcceptanceTests", "AcceptanceTests\AcceptanceTests.csproj", "{D5240325-59EF-4522-8B43-31D94774D470}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderPattern", "BuilderPattern\BuilderPattern.csproj", "{E4C92ADA-AB32-4D9F-836D-1E8F804F6174}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB8FC18D-E8F7-4B18-9921-1522A92E0E0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB8FC18D-E8F7-4B18-9921-1522A92E0E0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB8FC18D-E8F7-4B18-9921-1522A92E0E0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB8FC18D-E8F7-4B18-9921-1522A92E0E0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E1E7645-FF29-4697-BD07-A0ED19743127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E1E7645-FF29-4697-BD07-A0ED19743127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E1E7645-FF29-4697-BD07-A0ED19743127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E1E7645-FF29-4697-BD07-A0ED19743127}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA3CEF14-9FD8-4814-A5A9-2F5434627C67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA3CEF14-9FD8-4814-A5A9-2F5434627C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA3CEF14-9FD8-4814-A5A9-2F5434627C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA3CEF14-9FD8-4814-A5A9-2F5434627C67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{688A1CB1-1412-41F6-B9D7-B5E0D9C38961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{688A1CB1-1412-41F6-B9D7-B5E0D9C38961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{688A1CB1-1412-41F6-B9D7-B5E0D9C38961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{688A1CB1-1412-41F6-B9D7-B5E0D9C38961}.Release|Any CPU.Build.0 = Release|Any CPU
+		{310C8A50-3F67-4DD7-95B2-EECD24882FC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{310C8A50-3F67-4DD7-95B2-EECD24882FC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{310C8A50-3F67-4DD7-95B2-EECD24882FC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{310C8A50-3F67-4DD7-95B2-EECD24882FC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5240325-59EF-4522-8B43-31D94774D470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5240325-59EF-4522-8B43-31D94774D470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5240325-59EF-4522-8B43-31D94774D470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5240325-59EF-4522-8B43-31D94774D470}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4C92ADA-AB32-4D9F-836D-1E8F804F6174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4C92ADA-AB32-4D9F-836D-1E8F804F6174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4C92ADA-AB32-4D9F-836D-1E8F804F6174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4C92ADA-AB32-4D9F-836D-1E8F804F6174}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D83BDA0-D81B-442A-89B7-21E9689C4F52}
+	EndGlobalSection
+EndGlobal
